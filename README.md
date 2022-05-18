@@ -6,7 +6,6 @@
 ## Contents ##
 - [Background](#background)
 - [Project Goals](#project-goals)
-- [Site Owner Goals](#site-owner-goals)
 - [User Goals](#user-goals)
 - [UX](#ux)
     - [Project Strategy](#project-strategy)
