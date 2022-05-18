@@ -80,7 +80,7 @@ Item|Development Phase
 ----|-----------------
 Balloon Pop Multiplication game|1
 Contact Form to contact developer|1
-Link to developer [GitHub](https://github.com/richardhenyash) page|1
+Link to developer [GitHub](https://github.com/amanswarnakar) page|1
 Balloon Pop Division game|1
 Balloon Pop Addition game|1
 Balloon Pop Subtraction game|1
@@ -129,7 +129,7 @@ Feature|Importance|Difficulty|Development Phase
 -------|----------|----------|-----------------
 Balloon Pop Multiplication game| 5 | 3 | 1 |
 Contact Form to contact developer | 4 | 2 | 1
-Link to developer [GitHub](https://github.com/richardhenyash) page | 3 | 1 | 1
+Link to developer [GitHub](https://github.com/amanswarnakar) page | 3 | 1 | 1
 Balloon Pop Division game| 3 | 3 | 1
 Balloon Pop Addition game| 3 | 3 | 1
 Balloon Pop Subtraction game| 3 | 3 | 1
@@ -403,18 +403,18 @@ Further testing information and screen prints can be found in [TESTING.md](TESTI
 The project has been developed using [Gitpod](https://www.Gitpod.io/) and [GitHub](https://github.com/). 
 The project was regularly commited to [GitHub](https://github.com/) during the initial development phase.
 The website resides as a repository in [GitHub](https://github.com/) and has been been deployed 
-using [GitHub Pages](https://richardhenyash.github.io/balloon-pop-maths/). 
+using [GitHub Pages](https://amanswarnakar.github.io/balloon-pop-maths/). 
 
 The steps required to deploy the website to [GitHub Pages](https://pages.github.com/) are as follows:
-* Go to the [Project Code Repository Location](https://github.com/richardhenyash/balloon-pop-maths) on [GitHub](https://github.com/).
+* Go to the [Project Code Repository Location](https://github.com/amanswarnakar/balloon-pop-maths) on [GitHub](https://github.com/).
 * Select "Settings" (the gear icon) in the top right corner.
 * Scroll Down to the [GitHub Pages](https://pages.github.com/) section.
-* Set the desired source branch. For [Balloon Pop Maths](https://richardhenyash.github.io/balloon-pop-maths/), 
+* Set the desired source branch. For [Balloon Pop Maths](https://amanswarnakar.github.io/balloon-pop-maths/), 
 the deployed source branch is the 
-[Master](https://github.com/richardhenyash/balloon-pop-maths/tree/master) branch.
+[Master](https://github.com/amanswarnakar/balloon-pop-maths/tree/master) branch.
 * Click the "Save" button. A tick should now be shown above the "Source" panel in a 
 green panel which also contains the published site address. 
-For [Balloon Pop Maths](https://richardhenyash.github.io/balloon-pop-maths/) 
+For [Balloon Pop Maths](https://amanswarnakar.github.io/balloon-pop-maths/) 
 this is https://richardhenyash.github.io/balloon-pop-maths/.
 * For further help and information, see the following links:
 [About GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites), and  
@@ -431,7 +431,7 @@ For further information on forking a [GitHub](https://github.com/) repository,
 see the [GitHub Documentation](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 The project may be cloned by following these steps:
-* Go to the [Project Code Repository Location](https://github.com/richardhenyash/balloon-pop-maths) on [GitHub](https://github.com/).
+* Go to the [Project Code Repository Location](https://github.com/amanswarnakar/balloon-pop-maths) on [GitHub](https://github.com/).
 * Select the "Code" dropdown and choose "GitHub CLI" under "Clone". This will give you a URL that may be copied into the clipboard. 
 * Open the Git Bash command line interface in [Gitpod](https://www.Gitpod.io/).
 * Change the current working directory to the location where you would like the cloned directory to reside.
@@ -440,7 +440,7 @@ $ git clone https://github.com/richardhenyash/balloon-pop-maths
 * Press Enter to create the local clone.
 
 The code may also be downloaded to a local computer by following these steps:
-* Go to the [Project Code Repository Location](https://github.com/richardhenyash/balloon-pop-maths) on [GitHub](https://github.com/).
+* Go to the [Project Code Repository Location](https://github.com/amanswarnakar/balloon-pop-maths) on [GitHub](https://github.com/).
 * Select the "Code" dropdown and choose the "Download ZIP" option.
 * This will download a copy of the entire project locally as a .zip file.  
 
