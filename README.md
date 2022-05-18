@@ -53,11 +53,6 @@ learning new maths skills and reinforcing existing maths knowledge independently
 To provide a simple and engaging maths game that young children are able to play independently to learn new maths skills and to
 reinforce existing maths knowledge.
 
-## Site Owner Goals ##
-Developing the site will serve as a learning experience for the developer. The finished website will act as a showcase for the
-developer's new skills and will also help to raise the developer's profile. The developer also hopes that his 7 year old
-son will become a keen user of the site!
-
 ## User Goals ##
 To play the maths game for fun, to learn new maths skills and to reinforce existing maths knowledge.
 
